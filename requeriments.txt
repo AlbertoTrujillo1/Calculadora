@@ -1,0 +1,8 @@
+pandas
+requests
+matplotlib
+numpy
+pillow
+colorama
+tkinter
+tkcalendar
